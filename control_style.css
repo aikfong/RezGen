@@ -1,0 +1,42 @@
+﻿body { font-size: 10pt; }
+/* ------Copyright------*/
+.lblNP {}
+.lblCurrentMonth { font-weight:bold; font-size:12pt; color:#CC0000; }
+.tbCalendar { border-collapse:collapse; border:solid 1px #196bb5; }
+.calendarDays { font-weight:bold; background-color:#196bb5; color:White; }
+.calendarDays td { text-align:center; border: solid 1px black; }
+.btnCalendar { width:50px; height:50px; padding-top: 2px; }
+.logintable { width:450px; border: solid 1px #196bb5; border-collapse:collapse; }
+.logintable tr { height:45px; }
+.refinecategory { color:White; background:gray; }
+.refinetable { border: solid 1px gray; border-collapse:separate; -moz-border-radius: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;   }
+.generaltable { width:95%; border: solid 1px #6600CC; border-collapse:separate; -moz-border-radius: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;   }
+.generaltable tr th { padding-left:3px; text-align:left; margin-top:3px; }
+.generaltable tr td { text-align:left; }
+.trintro { font-size:smaller; color:Gray; }
+.page_menu { font-size:larger; }
+.infotable tr th { text-align:center; }
+.infotable tr td { text-align:center; }
+.bookingtable { border: solid 1px #003399; }
+.bookingtable tr th { text-align:center; }
+.bookingtable tr td { text-align:center; }
+.category { color:white; background-color: #6600CC;  font-size:12px; font-weight: bold; }
+.subcategory { text-decoration:underline; font-weight:bold; color: #196bb5; }
+.shorttxtbox { width:70px; }
+.generaltxtbox { width:300px; }
+.generaldropdown {}
+.generalbutton { cursor:pointer; }
+.add_button { float:right; margin-right:15px; font-size:11.5pt; cursor:pointer; }
+#copyoption { float:right; font-size:9pt; color:blue; }
+#ctl00_ContentPlaceHolder1_PopupDialog_close { cursor:pointer !important; }
+#ctl00_PopupDialog_close { cursor:pointer !important; } 
+.hide { display:none; }
+.show { display:block; }
+.bookingbutton_na { background-color:Gray; width:80px; }
+.bookingbutton_ep { background-color:DarkGray; width:80px; }
+.bookingbutton_av { background-color:#8080FF; width:80px; cursor:pointer; }
+.bookingbutton_bk { background-color:Yellow; width:80px; cursor:pointer; }
+.bookingbutton_up { background-color:Orange; width:80px; cursor:pointer; }
+.validator { color:Red; }
+.countdown_wrapper { margin-top:3px; padding-bottom:2px; font-weight:bold; color: firebrick; -moz-border-radius: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px; border:solid 1px gray; }
+.countdown_timer { display:block; width: 100px; height:40px; font-weight:normal; color:Black; }
