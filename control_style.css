@@ -40,3 +40,8 @@
 .validator { color:Red; }
 .countdown_wrapper { margin-top:3px; padding-bottom:2px; font-weight:bold; color: firebrick; -moz-border-radius: 3px; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px; border:solid 1px gray; }
 .countdown_timer { display:block; width: 100px; height:40px; font-weight:normal; color:Black; }
+
+.test
+{
+
+}
